@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m **Giriraj Rane**
-- 👀 I’m interested in MAD (Mobile Application Development)
+- 👀 I’m interested in Software Development
+- 📚 I've gained knowledge about Web technologies like HTML, CSS, JavaScript, React.js, etc.
 - 🌱 I’m currently learning Flutter Developemnt with Udemy
 - 💞️ I’m looking to collaborate on Flutter related Projects
 - 📫 You can reach on LinkedIn
